@@ -15,10 +15,10 @@ integrity of this distribution by typing:
         
 Then to install this module, run the following commands:
 
-	perl Build.PL
-	./Build
-	./Build test
-	./Build install
+    perl Build.PL
+    ./Build
+    ./Build test
+    ./Build install
 
 Or:
 
