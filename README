@@ -34,6 +34,7 @@ perl distribution version 5.8.0 and above.
 
 At build time you will need the following if you want to run all the tests:
 
+DateTime
 Module-Signature
 Test-Pod 1.22
 Test-Pod-Coverage 1.04
