@@ -1,6 +1,6 @@
 ---
 name: DateTime-Event-Klingon
-version: 1.0
+version: 1.0.1
 author:
   - 'Jaldhar H. Vyas <jaldhar@braincells.com>'
 abstract: Determine events of Klingon cultural significance
@@ -12,6 +12,7 @@ requires:
   Filter::Util::Call: 0
   UNIVERSAL: 0
 build_requires:
+  DateTime: 0
   Module::Signature: 0
   Pod::Coverage: 0.18
   Pod::Usage: 0

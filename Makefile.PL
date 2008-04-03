@@ -6,6 +6,7 @@ WriteMakefile
           'VERSION_FROM' => 'lib/DateTime/Event/Klingon.pm',
           'PREREQ_PM' => {
                            'Carp' => '0',
+                           'DateTime' => '0',
                            'Filter::Util::Call' => '0',
                            'Module::Signature' => '0',
                            'Pod::Coverage' => '0.18',
