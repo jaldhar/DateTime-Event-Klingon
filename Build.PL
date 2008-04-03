@@ -11,6 +11,7 @@ my $builder = Module::Build->new(
     dist_author         => 'Jaldhar H. Vyas <jaldhar@braincells.com>',
     dist_version_from   => 'lib/DateTime/Event/Klingon.pm',
     build_requires => {
+        'DateTime'              => 0,
         'Module::Signature'     => 0,
         'Pod::Coverage'         => 0.18,
         'Pod::Usage'            => 0,
